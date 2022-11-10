@@ -1146,7 +1146,7 @@
     (property "Value" "Conn_01x02_Female" (id 1) (at 200.66 41.2749 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 199.39 38.735 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" (id 2) (at 199.39 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 199.39 38.735 0)
@@ -1165,7 +1165,7 @@
     (property "Value" "Conn_01x02_Female" (id 1) (at 153.035 40.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 151.765 38.1 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" (id 2) (at 151.765 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 151.765 38.1 0)
@@ -1296,13 +1296,13 @@
       (reference "J1") (unit 1) (value "Conn_01x15_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical")
     )
     (path "/b6ce3de8-74e3-4d01-b190-d0274582e099"
-      (reference "J2") (unit 1) (value "Conn_01x02_Female") (footprint "")
+      (reference "J2") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
     (path "/d09b42b3-a1d3-4700-b9ed-e9258430cad0"
       (reference "J3") (unit 1) (value "Conn_01x15_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical")
     )
     (path "/7d8d3fcc-1fb1-4da8-b4f9-db58981f1c77"
-      (reference "J4") (unit 1) (value "Conn_01x02_Female") (footprint "")
+      (reference "J4") (unit 1) (value "Conn_01x02_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
     (path "/41cec304-98be-4691-a921-3c7db05a2fbc"
       (reference "Q1") (unit 1) (value "S8050") (footprint "Package_TO_SOT_THT:TO-92_Inline")
